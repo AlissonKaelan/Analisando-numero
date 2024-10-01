@@ -1,0 +1,43 @@
+
+
+body {
+    background: rgb(48, 48, 240);
+    font: normal 15pt Arial;
+    text-align: center;
+
+}
+
+header {
+    color: rgb(252, 245, 245);
+    text-align: center;
+
+
+}
+
+select {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 100px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(10, 9, 9, 0.527);
+
+}
+
+.numeros{
+    width: 150px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+
+}
+
+.resultado {
+    text-align: center;
+    color: rgb(247, 247, 247);
+
+}
